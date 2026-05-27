@@ -2,12 +2,12 @@
 
 ## - Desarrollo
 
-[ ] Instalar discos duros  
-[ ] Configurar VLANs  
-[ ] Migrar servicios y datos del anterior servidor  
-[ ] Jellyfin con *arr stack  
+- [ ] Instalar discos duros  
+- [ ] Configurar VLANs  
+- [ ] Migrar servicios y datos del anterior servidor  
+- [ ] Jellyfin con *arr stack  
 
 ## - Compras
 
-[ ] Cabina rack  
-[ ] Patch panel  
+- [ ] Cabina rack  
+- [ ] Patch panel  
