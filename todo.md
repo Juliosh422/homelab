@@ -2,9 +2,10 @@
 
 ## - Desarrollo
 
-- [ ] Instalar discos duros  
+- [x] Instalar discos duros  
+- [ ] Integrar Proxmox con IDRAC y hardware del servidor
 - [ ] Configurar VLANs  
-- [ ] Migrar servicios y datos del anterior servidor  
+- [x] Migrar servicios y datos del anterior servidor  
 - [ ] Jellyfin con *arr stack  
 
 ## - Compras
